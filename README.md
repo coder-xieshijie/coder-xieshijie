@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/coder-xieshijie/xieshijie-crab/main/assets/crab.png" width="136" alt="AI游民寄居蟹" />
+  <img src="./assets/brand-robot.png" width="136" alt="AI游民朱红机器人" />
 
   <h1>谢世杰 · AI Agent Builder</h1>
 
@@ -7,7 +7,7 @@
   <p>探索 AI，也探索工作与成长的新可能。</p>
 
   <p>
-    <a href="https://coder-xieshijie.cn/xieshijie-crab/">Website</a>
+    <a href="https://coder-xieshijie.cn/ai-roam/">Website</a>
     ·
     <a href="https://github.com/coder-xieshijie/agent-lord">agent-lord</a>
   </p>
@@ -27,7 +27,7 @@
 
 面向 Codex 和 Claude Code 的持久化 Agent 调度工具，让任务可以被启动、继续、恢复和交接，并保留可核验的执行结果。
 
-### [xieshijie-crab](https://github.com/coder-xieshijie/xieshijie-crab)
+### [ai-roam](https://github.com/coder-xieshijie/ai-roam)
 
 「谢世杰｜AI游民」个人主页：关于 AI Agent 的真实实践，以及 AI 时代的工作、判断、选择与成长。
 
@@ -46,5 +46,5 @@
 
 ## Find me
 
-- Website: [coder-xieshijie.cn/xieshijie-crab](https://coder-xieshijie.cn/xieshijie-crab/)
+- Website: [coder-xieshijie.cn/ai-roam](https://coder-xieshijie.cn/ai-roam/)
 
