@@ -1,50 +1,24 @@
-<div align="center">
-  <img src="./assets/brand-robot.png" width="136" alt="AI游民朱红机器人" />
+# Shijie Xie (谢世杰)
 
-  <h1>谢世杰 · AI Agent Builder</h1>
-
-  <p><strong>AI游民</strong> · Building practical AI agents, skills and workflows.</p>
-  <p>探索 AI，也探索工作与成长的新可能。</p>
-
-  <p>
-    <a href="https://coder-xieshijie.cn/ai-roam/">Website</a>
-    ·
-    <a href="https://github.com/coder-xieshijie/agent-lord">agent-lord</a>
-  </p>
-</div>
-
----
-
-我是一名长期使用、研究和构建 AI 的技术人。
-
-这里记录 Agent 怎样进入真实任务，也记录它什么时候失败：从 Skills、工作流与多 Agent 编排，到上下文、评测、安全、可靠性与恢复。
-
-> 帮技术人把 AI 变成工作能力、判断力和职业杠杆。
+I build coding agents at MiniMax, then use them to ship my own work. Been through every shift in AI coding: prompts, context, harness. Notes from each.
 
 ## What I'm building
 
-### [agent-lord](https://github.com/coder-xieshijie/agent-lord)
+**[dev-skills](https://github.com/coder-xieshijie/dev-skills)** is a set of Agent Skills that take a requirement to a verified, mergeable pull request. You settle the decisions and acceptance criteria at the start, and read the agent's decisions before you merge. In between, one agent does the work and proves it in the running app, and a model from another family checks it.
 
-面向 Codex 和 Claude Code 的持久化 Agent 调度工具，让任务可以被启动、继续、恢复和交接，并保留可核验的执行结果。
+`repo-readiness → core-grill → core-spec → deliver`
 
-### [ai-roam](https://github.com/coder-xieshijie/ai-roam)
+## Open source
 
-「谢世杰｜AI游民」个人主页：关于 AI Agent 的真实实践，以及 AI 时代的工作、判断、选择与成长。
+- [MiniMax-AI/minimax-code#280](https://github.com/MiniMax-AI/minimax-code/pull/280): stabilized the required performance check in CI. Regressions are now judged from paired samples, so a single slow runner sample no longer fails unrelated PRs. Merged Sep 21, 2026.
 
-## What I'm exploring
+## Writing
 
-- Agent 如何在真实任务里稳定地产生结果
-- Skills、Context Engineering 与 Harness Engineering
-- 多 Agent 工作流、评测、安全和失败恢复
-- AI 如何改变技术人的工作方式与职业选择
-
-## How I work
-
-`真实问题 → 亲自实践 → 对照验证 → 失败与取舍 → 可复用资产`
-
-我更关心一个工具在什么条件下有效、什么时候不该用，以及怎样把一次经验沉淀成可以复用的方法。
+- [I stopped babysitting my coding agents. Here's the workflow.](https://x.com/world_0618/status/2107848503305113972) (on X)
 
 ## Find me
 
-- Website: [coder-xieshijie.cn/ai-roam](https://coder-xieshijie.cn/ai-roam/)
+- X: [@world_0618](https://x.com/world_0618)
+- Website: [xieshijie.cn/en](https://xieshijie.cn/en/)
 
+中文内容在 [xieshijie.cn](https://xieshijie.cn/) 和公众号「AI游民谢世杰」。
